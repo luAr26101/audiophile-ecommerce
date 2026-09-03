@@ -152,7 +152,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 **Have fun building!** 🚀
 
-## Things I've learn while building this project
+## Things I've learned while building this project
 
 What follows is a series of things I've learned while building this project (these will be added while I progress through the project)
 
